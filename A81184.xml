@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The curates conference; or a discourse betwixt two schollers; both of them relating their hard condition, and consulting which way to mend it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81184</idno>
+            <idno type="STC">Wing C7617</idno>
+            <idno type="STC">Thomason E208_13</idno>
+            <idno type="STC">ESTC R17654</idno>
+            <idno type="EEBO-CITATION">99860242</idno>
+            <idno type="PROQUEST">99860242</idno>
+            <idno type="VID">112359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112359)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 37:E208[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The curates conference; or a discourse betwixt two schollers; both of them relating their hard condition, and consulting which way to mend it.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Benefices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112359:1"/>
+            <pb facs="tcp:112359:1" rendition="simple:additions"/>
+            <p>THE CURATES CONFERENCE; <hi>OR</hi> A DISCOVRSE BETWIXT TWO SCHOLLERS; Both of them relating their hard Condition, and conſulting which way to mend it.</p>
+            <q>Interpone tuis interdum gaudia Curis.</q>
+            <p>Printed in the Yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:112359:2"/>
+            <pb n="1" facs="tcp:112359:2"/>
+            <head>THE CVRATES CONFERENCE; <hi>OR</hi> A Diſcourſe betwixt two Schol<g ref="char:EOLhyphen"/>lers; both of them relating their hard Condition, and conſulting which way to mend it.</head>
+            <sp>
+               <speaker>Maſter <hi>Pooreſt.</hi>
+               </speaker>
+               <p>WELL met good Maſter <hi>Needham.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Maſter <hi>Needham.</hi>
+               </speaker>
+               <p>I am heartily glad to ſee you here, how have you canvas'd the courſe of the World this many a day good Maſter <hi>Pooreſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Good Sir, take the paines as to walke into <hi>Paules</hi> Church, and wee will conferre a little before Sermon beginnes.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>With all my heart, for I muſt not ſo ſud<g ref="char:EOLhyphen"/>denly leave your company, having not enjoyed your ſociety this long time.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:112359:3"/>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Good Sir, tell me, are you reſident in <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> in the Colledge ſtill; I make no queſtion but the Univerſitie and your merits have preferr'd you to ſome good Fellowſhip, Parſonage, or the like good for<g ref="char:EOLhyphen"/>tunes.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Alas! good Maſter <hi>Pooreſt,</hi> this is not an age for to beſtow Livings and preferments freely, tis now as 'twas ſaid long agoe; <hi>Si nihil attuleris ibis Jho<g ref="char:EOLhyphen"/>mere foras,</hi> I tell you, tis pity to ſee how Juniors and Dunces take poſſeſſion of Colledges, and Schollerſhips and Fellowſhips are bought and ſould as Horſes in <hi>Smithfield.</hi> But I hope you are growne fat in the Coun<g ref="char:EOLhyphen"/>trey, for there is not ſuch corruption there as there is among the <hi>Muſes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Ile deale plainly with you, I ſtayd in the U<g ref="char:EOLhyphen"/>niverſitie of <hi>Oxford</hi> till I was forc'd to leave it for want of ſubſiſtence. I ſtood for three or foure ſeverall Schol<g ref="char:EOLhyphen"/>lerſhips, and though I was found upon Examination ſufficient, yet I doe ſeriouſly proteſt, that one time I was prevented by halfe a Bucke and ſome good Wine, that was ſent up to make the Fellowes merry: and another time a great Ladyes Letter prevail'd againſt all abilitie of parts, and endowments whatſoever: a third time, the Warden of the Colledge had a poore kinſ<g ref="char:EOLhyphen"/>man, and ſo he got the major part of the Fellowes on his ſide, for feare, and flattery, that there were no hopes to ſwimme againſt ſo great a ſtreame; and ſo I was forc'd to retreat into the Countrey, and there turne firſt an Uſher, and at laſt was made Curate under a great Prebend, and a double beneficed rich man, where I found promiſes beyond performances; for my Salary was inferiour by much to his Cooke, or his Coach<g ref="char:EOLhyphen"/>man, nay, his Barber had double my ſtipend; for I was allowed but eight pound <hi>per annum,</hi> and get my owne victualls cloaths and bookes as I could; and when I tould him the meanes were too little, he ſaid that if I would not, he could have his Cure ſupplyed by ano<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:112359:3"/>rather for leſſe then what I had; and ſo I was yoaked to a ſmall pittance for the ſpace of twelve yeares.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Iſt poſſible there ſhould be ſuch a concur<g ref="char:EOLhyphen"/>rence of hard fortunes; It was no otherwiſe in our Univerſitie, when I ſtood for preferment; for at firſt, a Lawyers ſonne had the Schollerſhip, becauſe his Fa<g ref="char:EOLhyphen"/>ther had done ſome buſineſſe for the Colledge at Com<g ref="char:EOLhyphen"/>mon Law; and a Doctor of Phyſickes ſonne was pre<g ref="char:EOLhyphen"/>ferr'd in my place to a Fellowſhip, becauſe his Father had cured the Maſters wife of a Timpany: and ſo find<g ref="char:EOLhyphen"/>ing all hopes gone there, I went home to my friends, and ſo within a while after I was made a Miniſter, and ſerv'd a Cure.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Where I pray you, is your Charge?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>It is in a little poore pariſh hard by <hi>Pinch<g ref="char:EOLhyphen"/>backe</hi> in <hi>Lincolneſhire,</hi> where the Church-warden is ſcarce able to give the Miniſter more then a Barley Bagpudding to his Sundayes dinner. Where are you plac'd?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>I ſerve a Cure hard by <hi>Hungerford</hi> in <hi>Wilt<g ref="char:EOLhyphen"/>ſhire;</hi> where my allowance is ſo ſhort, that was it not more for conſcience to be in this my calling, I had ra<g ref="char:EOLhyphen"/>ther be a Cobler, and ſit and mend old ſhoes.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>I proteſt, I thinke wee Curates are worſe dealt withall by the rich double beneficed men, then the Children of <hi>Iſrael</hi> were by the <hi>Aegyptians;</hi> for though they made them worke hard, yet they allowed them ſtraw and other materialls, and good victualls; for they longed after the fleſh-pots of <hi>Aegypt,</hi> which proves they had them a long time; but we are lorc'd to worke, and yet can get nothing: and yet theſe ſhould be either Fathers or Brethren to us, but they were enemies to them; and yet they dealt better with them, then theſe doe with us.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>They deale as bad with us as they doe with
+<pb n="4" facs="tcp:112359:4"/>their flockes. I meane their pariſhioners, for they ſtarve their ſoules, and pinch our bodies.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>I wonder how theſe Lip-parſons would doe, ſhould there be but once a generall Conſent of all the Curates to forbeare to preach or reade prayers but for one three weekes, or a moneth onely, how they would be forc'd to ride for it, and yet all in vaine; for how can one perſon ſupply two places at one time twenty miles diſtance?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>By my conſent they ſhould have for every Benefice, a wife, they ſhould have varietie of pleaſure, as well as of profit; but withall, I thinke that courſe would quickly weary their bodies and purſes too.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Wives, oh ſtrange, no I would not live to ſee that day; for if they be ſo fearefully covetous ha<g ref="char:EOLhyphen"/>ving but one, I wonder what they would be, having ſo many.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Oh Sir, I tell you, they might by this courſe in time ſtand in no need of Curates, nor Clarkes nei<g ref="char:EOLhyphen"/>ther; for if they could ſpeake as much i'th Church as at home, they might ſerve the turne; and they are all Maſters of Art, to gather up the ſmall tithes and Ea<g ref="char:EOLhyphen"/>ſter-booke as well as the Clarke.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Nay, now ſince wee are fallen upon it, Ile tell you, our Parſon hath a Living in <hi>London</hi> as well as here, and his wife is ſo miſerably proud, that both Li<g ref="char:EOLhyphen"/>vings will ſcarce ſuffice to maintaine her, in ſo much that ſhee takes out of the Curates wages, as halfe of eve<g ref="char:EOLhyphen"/>ry funerall Sermon, and out of all Burialls, Church<g ref="char:EOLhyphen"/>ings, Weddings, Chriſtnings, &amp;c. ſhee hath halfe du<g ref="char:EOLhyphen"/>ties, to buy Lace, Pinnes, Gloves, Fannes, Blackbags, Sattin Petticoates, &amp;c. and towards the maintenance of a puny Servitor to goe before her; nay, ſhee payes halfe towards the maintenance of a Coach, which ſhee either gets from her husband, or elſe from the Curate, by ſubſtracting his allowance at the quarter
+<pb n="5" facs="tcp:112359:4"/>day; and what more is, ſhee made her Curate in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to enter into bond privately to her husband, to leave the place at halfe a yeares warning; or elſe her husband the Parſon of the place, would not have gran<g ref="char:EOLhyphen"/>ted him a Licence for the place.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Oh ſtrange! iſt poſſible that this old re<g ref="char:EOLhyphen"/>mainder of Popery ſhould be yet upheld by our Cler<g ref="char:EOLhyphen"/>gie, to have ſuch Pope-<hi>Joanes</hi> to rule the Church. I have heard ſay, there are three places in which a Woman never ſhould beare any ſway; the Buttery, the Kitchin, and the Church; for Women are too co<g ref="char:EOLhyphen"/>vetous by nature to keepe a good houſe; and too fooliſh to rule a Church.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Alas! Maſter <hi>Needham,</hi> there is a neceſſitie in this, for I thinke our Parſon hath ſcarce wit enough to doe it; and though he had, yet his wives tongue would put him out of his wits, if he ſhould not let her have her will.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>What care I how ſhee puniſhed him, ſo that ſhee did not intrench upon our Liberties, but a<g ref="char:EOLhyphen"/>las, ſhee breakes her husbands backe, and pinches our bellies.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Such a peice of correction hath our Par<g ref="char:EOLhyphen"/>ſon too; for I bought but one new cloake in ſixe yeares, and that money, too was given mee in lega<g ref="char:EOLhyphen"/>cy by a good pariſhioner, and ſhee<g ref="char:punc">▪</g> oh how ſhee en<g ref="char:EOLhyphen"/>vied my felicitie, and inform'd her husband, that I waxt proud; and adviſed him to get another in my place.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Iſt poſſible! and yet our ſhee-Regent is not unlike her, for ſhee frets fearefully to heare that a worthy Gentleman, who lives in the pariſh, loves me ſo much; it galls her to the quicke, if the Pariſhioners out of their loves give me any thing to mend my Sa<g ref="char:EOLhyphen"/>lary; oh ſhee thinkes all's loſt that goes beſide her hands!</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:112359:5"/>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Well, but what does your great Parſon with all his wealth? does he keepe good hoſpitali<g ref="char:EOLhyphen"/>tie? or is he charitable to the poore, what's his name? D<hi rend="sup">r</hi>. <hi>Proud.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Alas, nothing leſſe; he weares Caſſockes of Damaske, and Pluſh, good Beavers, and ſilke Stockings; can play well at Tables, or Gleeke, can hunt well, and bowle very skilfully; is deeply ex<g ref="char:EOLhyphen"/>perienced in Racy Canary, and can reliſh a Cup of right Claret; and ſo paſſeth the time away: what's your great Overſeers name?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>D<hi rend="sup">r</hi> 
+                  <hi>Harding.</hi> What goodneſſe lodgeth in his Corps?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Little or none, he is worſe then yours; for he never comes to viſit his Pariſh, but Horſe<g ref="char:EOLhyphen"/>leech-like, he ſuckes them; he loves preying better then praying, and forces his Pariſh to humilitie by oppreſſing them; he was a maine Projector for two ſhillings nine pence ith pound, and lookes like a piece of Reezed Bacon ever ſince the plot failed; hee's tor<g ref="char:EOLhyphen"/>mented with the yellow Jaundies, and a wanton Wife, which are like two incarnate devills, will force him to beleeve a hell before hee comes thi<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>It's no great matter, 'tis but juſt that he that torments others, ſhould taſte the ſame ſauce him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>I'le tell you what his Cuſtome is, when he comes amongſt us; he neither prayes nor preaches, the one I thinke he will not, the other I feare he can<g ref="char:EOLhyphen"/>not performe.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Oh ſtrange! how came hee then by ſuch Livings?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Eaſily enough, for its money that makes the Parſons Horſe to goe now adayes, for they may ſay to Parſons, as it hath beene of old ſaid of bookes, <hi>Quanti emiſti hanc?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:112359:5"/>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>I'le aſſure you, I am afraid he is diſcon<g ref="char:EOLhyphen"/>tent at our Church-government, as well as many o<g ref="char:EOLhyphen"/>ther great Parſons; for they force and ſtrictly en<g ref="char:EOLhyphen"/>joyne their Curates to reade all divine Service, which they never doe themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>It's a ſtrange world, that they ſhould flou<g ref="char:EOLhyphen"/>riſh and flow in wealth for doing nothing; and the poore Curates that doe all, can get nothing; I'le tell you truly, he has not given his Pariſh a Sermon this three quarters of a yeare.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>I wonder how they can anſwer the Can<g ref="char:EOLhyphen"/>non which enjoynes them to Preach once a moneth.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Piſh, what doe you talke to them of the Canons, they who can make new ones, thinke they may ſlight the old ones; their Canons are like thoſe Lawes, which caught flyes, but could not hold hor<g ref="char:EOLhyphen"/>nets or great bees, they are the Curates, who are ſet to be Canoniers, theſe endure the heat of the day, of this once or twice a day preaching; alas, they ſay as the Prieſts did once to <hi>Judas, What's that to us, ſee you to that.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>You ſpeake truth, and I will maintaine it, that our Doctor differs not much from the Wea<g ref="char:EOLhyphen"/>thercocke on the Church Steeple; for as it is plac'd higheſt, ſayes nothing, is ſounding braſſe, or ſome ſuch mettall, and turnes as the Winde; So he rules all the Pariſh, ſeldome preaches, is voyd of charitie, and turnes in his courſes every time; for ſometimes, he is all for Ceremony, ſometimes indifferent, ſome<g ref="char:EOLhyphen"/>times againſt them; he hath made a terrible combu<g ref="char:EOLhyphen"/>ſtion, where and how to place, the Lords Table; It ſtood in the Church, anon it muſt be advanc'd in<g ref="char:EOLhyphen"/>to the Quire, then it muſt bee Eaſt and Weſt, and preſently after, North and South, covered, unco<g ref="char:EOLhyphen"/>vered, rayled, without, rayles, of this faſhion, of
+<pb n="8" facs="tcp:112359:6"/>that, of this wood, of another; may, he himſelfe who was the firſt that altered it, hath now within this moneth or two, altered his opinion, and plac'd it againe in the body of the Church: oh ſine Wea<g ref="char:EOLhyphen"/>thercocke.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Oh lamentable, that Curated ſhould bee ſhadowes to ſuch empty ſhells; but our great Doctor, hee's of another ſtraine, he cares not much, I thinke, whither there was any Table or Communion at all; ſo that he may receive his Tithes, 'tis not ſo much to him whither it be an Altar or a Table, ſo that he can get the gold that comes from it, he is ſo taken with covetouſneſſe, that ſo he may get money, what cares he for either preaching or praying, I tell you, hee threatned a poore Widdow, to put her into the Court, becauſe (as hee was tould) ſhee had thir<g ref="char:EOLhyphen"/>teene egges in a neſt, and yet gave him but one for tythe.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Well, our Maſter is as full of Law, as yours can be of covetouſneſſe: he threatned one of his Pariſhioners for ſneezing in prayer time, becauſe he hindred his devotion, nay, he made one jaunt it up a foote into the Arches foureſcore miles, becauſe he deſired to receive the Communion in his feat, my, I proteſt, that the Pariſhioners when they heare he is going away, doe uſually make him ſome feaſt, but it is for joy, that they ſhall be rid of him till next Sum<g ref="char:EOLhyphen"/>mer.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>What is yours a good able Schol<g ref="char:EOLhyphen"/>ler?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Yes, he is Scholler good enough, but he preaches Chriſt out of contention.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>That's ſomething yet, but alas our Par<g ref="char:EOLhyphen"/>ſon is as bad as one of <hi>Saunderſons</hi> Doctors; for he was made Doctor in <hi>Scotland,</hi> when our King was there: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> warrant you, that he knowes not whi<g ref="char:EOLhyphen"/>ther
+<pb n="9" facs="tcp:112359:6"/>Saint <hi>Ambroſe</hi> was a Greeke or a Latine Fa<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Oh miſerable!</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Nay, he holds Greeke for Heatheniſh, and Hebrew for Jewiſh Languages, and Latine he ſayes is the Language of Rome, and ſo holds ignorance beſt in theſe: he ſcarce knowes the difference betwixt <hi>Annus</hi> and <hi>Annas,</hi> or betwixt, <hi>Anus</hi> or <hi>Anas:</hi> I have heard him reade <hi>Opa. tenebr.</hi> for <hi>Opera tenebrarum,</hi> becauſe they were cut a little ſhort, and ſayd the Printers deſerv'd puniſhment for curtailing good La<g ref="char:EOLhyphen"/>tine: I heard him alſo decline <hi>Senex</hi> for an old man, <hi>genetivo Senecis,</hi> and was confident that he was right too.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Oh ſuch Doctors had need to pray that Popery may come in againe, for then 'twas well when the Prieſt could reade Latine, whither it was right or wrong.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>And yet he is loaden with no leſſe then a good Parſonage, a great Vicaridge, two Prebend<g ref="char:EOLhyphen"/>ſhips, and another place worth foureſcore pound by the yeare; its impoſſible ſure for him to preach, for telling his moneys.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Any of all thoſe places would ſuffice you, or my ſelfe, but alas I Wiſhers and woulders, you know how the Proverb runnes: theſe optative Moods are meerly poore and beggarly.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>I deale plainly with you, I was offered a place in the Citie of <hi>London,</hi> but the name of it frighted mee, it was at Saint <hi>Peters i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h Poore,</hi> and I thought, I had enough of poverty already, and ſo I re<g ref="char:EOLhyphen"/>fuſed it.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Juſt ſo was I offered to ſerve a Cure more North by farre then this is, but the name of it ſtart<g ref="char:EOLhyphen"/>led mee, and turned aſide all reſolution towards it: for it was at a place called <hi>Sterveling</hi> in <hi>Cumber<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:112359:7"/>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Nay, Ile tell you more Maſter <hi>Needham;</hi> I thought to have gone up to <hi>London,</hi> had not our Doctors Curate there one Maſter <hi>Hand-little</hi> told mee plainly, that moſt Curates in <hi>London</hi> liv'd upon Citizens Trenchers, and were it not that they were pittifull and charitable to them, there was no poſſi<g ref="char:EOLhyphen"/>bilitie of ſubſiſtence; and that of late it went harder with them, then before, for ever ſince the Parſons would have ſo inhanc'd their Revenues, the Citizens have mainely withdrawne their purſes, ſo that now the Curate muſt live upon his ſet pittance, or elſe ſtarve.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Well Maſter <hi>Pooreſt,</hi> I doe not intend to ſtay longer in the Countrey, for I will waite here in Towne upon hopes a while.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Doe as you pleaſe, but you will finde the old Proverb true, <hi>London lick penny.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>I am reſolv'd upon it, though I goe to the three-penny Ordinary; my Reaſon is, I doe heare ſay, that there are great ſtore of Clarkes places about <hi>London,</hi> that are good allowance for Schollers, ſome worth two hundred pound and upwards <hi>per annum,</hi> I know ſome of the Pariſh Clarkes are worth ſe<g ref="char:EOLhyphen"/>ven or eight thouſand pounds; oh their fees come in ſleeping and waking: what thinke you of the plott?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>I marry ſuch places are worth the while, but how ſhould one catch them?</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>I'le aſſure you, 'tis a ſhame that ſuch Me<g ref="char:EOLhyphen"/>chanickes ſhould live in ſuch ſtate as they doe, many of them are as greedy of Funeralls as Vultures of dead Carkaſſes, and they are moſt of them in an ill name for exacting moſt groſſely in their fees, hence is it that ſome of them rule the whole Pariſh; and Par<g ref="char:EOLhyphen"/>ſon, and all, you ſhall ſee them upon feſtivall dayes, as well cloath'd as the chiefeſt Citizens; their fingers
+<pb n="11" facs="tcp:112359:7"/>as full of Rings of Gold, as an old Ale wife that has buried foure or five husbands, and their neckes ſet as bigge with a curious Ruffe as any the proudeſt Dons in Spaine, oh what pure rich night caps they weare, and good Beavers; beſide all this, they can have their meetings uſually in Tavernes of three or foure pounds a ſitting, when as poore Curates muſt not looke into a Red Lettice, under feare of a generall cenſure.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Oh ſtrange! I thinke it was well if Cu<g ref="char:EOLhyphen"/>rates could turne Pariſh Clarkes, if it be as you ſay, 'tis the better courſe by farre.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Come, come, I tell you, wee are bound to looke out for our ſelves, and I know no more ſafer courſe then this, for moſt of the Clarkes have trades to live upon befide: but I hope their Char<g ref="char:EOLhyphen"/>ter will fayle, and then others may come into their places.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>What ſay you Maſter <hi>Needham,</hi> how ſtrong are you, will you goe and ſhew me that pretry ban<g ref="char:EOLhyphen"/>quetting houſe for Curates, I meant the three penny Ordinary, for I can goe no higher.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>I, I with all my heart, for I am almoſt at the ſame ebbe: but lets hope better; things will not alwayes ride in this Racke.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Sir, I conceive plainly, that wee Curates are but as the ſtalking horſes to the Clarkes, for they get wealth by our labours.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Are you adviſed of that, you would ſay ſo indeed ſhould you but ſee ſome of their Bills, ſo much for Burialls, ſo much for the kneell, ſo much for the grave, for the corps more if coffin'd; more yet; if in ſuch a Church, yard; more then that, if in the Church; higher yet, if it be in the Chancell; be<g ref="char:EOLhyphen"/>yond all theſe, if buried with Torches, and Sermon, and mourning, with attendance; but it is put upon the
+<pb n="12" facs="tcp:112359:8"/>higheſt ſtraine, if it be a ſtranger. Beſides, for Matri<g ref="char:EOLhyphen"/>ages by Banes, or by Licence, for making the Certi<g ref="char:EOLhyphen"/>ficate; ſo for Churchings, and diverſe other wayes, and nothing to the Curate all this while.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>Well, I conceive it more then are I did, but now let us leave off Diſcourſe, and fall to our Commons, what a pretty Modicum I have here, ſure this Ordinary-keeper has beene ſome Cooke or Scullion in a Colledge, how dextrouſly the fellow playes the Logician, in dividing the meat<g ref="char:punc">▪</g> 'tis an ex<g ref="char:EOLhyphen"/>cellent place ſure to learne Abſtinence by, I promiſe you, I will viſite this houſe as my ſtocke holds out. Its juſt one degree above Dining with Duke <hi>Hum<g ref="char:EOLhyphen"/>phery,</hi> tis as good as a Preſervative againſt ſur<g ref="char:EOLhyphen"/>fets.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Oh good Brother, tis as fine a refreſh<g ref="char:EOLhyphen"/>ment as may be; I hold it wondrous good, for here a man ſhall be ſure to riſe from his meat as many o<g ref="char:EOLhyphen"/>thers uſe to ſit downe to it, with a ſtomacke.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>I'le tell you one thing, which I had al<g ref="char:EOLhyphen"/>moſt forgotten, I was offered the other day to goe a Voyage to the Eaſt Indies, to bee Preacher in a Ship.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>Excellent well, oh refuſe it not; 'tis farre beyond living aſhore for ten pound <hi>per annum,</hi> I know you will finde brave worthy Merchants, you cannot want, if you undertake it.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>I promiſe you, I had determin'd to have gone in one of his Majeſties Ships upon our narrow Seas, but if the voyage be ſo good, I'le away (God willing) next ſpring.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>I'le tell you, what I intend if I miſſe of hopes this way here, to ſollicite to be a Preacher to a Regiment of Souldiers, if there be any ſervice this next Summer; for wee cannot be lower then now wee are; I would have given you Maſter <hi>Poweſt,</hi> one
+<pb n="13" facs="tcp:112359:8"/>pint of Wine, but <hi>Ultra poſſe non eſt eſſe,</hi> as you know.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>P.</hi>
+               </speaker>
+               <p>I am as willing to have done the like to your ſelfe, not having ſeene you ſo long ſince, but my purſe denies abilitie.</p>
+            </sp>
+            <sp>
+               <speaker>M<hi rend="sup">r</hi>. <hi>N.</hi>
+               </speaker>
+               <p>I muſt be gone at one of the clocke, to meet with a Gentleman of the Innes of Court, well good Brother, God bleſſe us both, and ſend us better times, and a happy meeting. Farewell.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
